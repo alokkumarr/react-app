@@ -5,6 +5,7 @@ import './App.css';
 import Header from "./Header"
 import AddContact from "./AddContact"
 import ContactList from "./ContactList"
+import ContactDetails from "./ContactDetails"
 
 function App() {
 
@@ -55,6 +56,9 @@ function App() {
             render={(props) => (
                 <AddContact {...props} addContactHandler={addContactHandler}/>
             )}/>
+          <Route 
+            path="/contact/:id" 
+            component={ContactDetails}/>
         </Switch>
      </Router>
     </div>
