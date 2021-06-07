@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "c3396f49-1047-4f2a-86bf-401f23adc760",
+      "name": "Rohan Verma",
+      "email": "rohan.m@gmail.com"
+    },
+    {
+      "id": "62063914-63f6-4570-b11e-0d195d476b56",
+      "name": "Mike",
+      "email": "miky@gmail.com"
+    },
+    {
+      "id": "c0dc3c61-c693-495f-beff-f79402e874ef",
+      "name": "asd",
+      "email": "dff@mail.com"
+    },
+    {
+      "id": "88cd577f-8ede-4776-97f3-223670a06408",
+      "name": "Ms.Vidhi",
+      "email": "nidhi@gmail.com"
+    }
+  ]
+}
