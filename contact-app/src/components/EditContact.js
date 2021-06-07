@@ -5,6 +5,7 @@ class EditContact extends React.Component {
     constructor(props) {
         super(props)
         const {id, name, email} = props.location.state.contact;
+        
         this.state = {
             id: id,
             name: name,

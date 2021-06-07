@@ -20,7 +20,7 @@ const ContactList = (props) => {
 
     const getSearchTerm = () => {
         //console.log(inputE1);
-        props.searchKeyword(inputE1.current.value)
+        props.searchKeyword(inputE1.current.value);
     }
 
     return (
